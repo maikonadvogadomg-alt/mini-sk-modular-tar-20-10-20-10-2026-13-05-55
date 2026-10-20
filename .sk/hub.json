@@ -1,0 +1,17 @@
+{
+  "titulo": "Mini-SK-modular-tar-20-10 20-10-2026, 13-05-55",
+  "arquivo": "hub.html",
+  "itens": [
+    {
+      "path": "index.html",
+      "nome": "Mini SK",
+      "desc": "",
+      "on": true,
+      "icone": "icons/icon.svg"
+    }
+  ],
+  "sub": "",
+  "logo": "",
+  "tema": "escuro",
+  "links": []
+}
